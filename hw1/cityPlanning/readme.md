@@ -1,1 +1,1 @@
-Point : 100
+Grade : 100
