@@ -1,2 +1,2 @@
 # Java-Data-Structure
-Gtü Data Structure And Algorithm course assignments
+GTU CSE222 - Data Structure And Algorithm course assignments
