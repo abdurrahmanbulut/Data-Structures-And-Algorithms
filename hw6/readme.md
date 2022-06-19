@@ -1,1 +1,1 @@
-Grade : Waiting..
+Grade : 100
